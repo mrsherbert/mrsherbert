@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Bem vindo ao meu GitHub</h1>
 
-<!--
-**mrsherbert/mrsherbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Um estudante de engenharia eletrônica e programação</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsherbert&label=Profile%20views&color=0e75b6&style=flat" alt="mrsherbert" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsherbert" alt="mrsherbert" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsherbert&show_icons=true&locale=en&layout=compact" alt="mrsherbert" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsherbert&show_icons=true&locale=en" alt="mrsherbert" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsherbert&" alt="mrsherbert" /></p>
