@@ -46,7 +46,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=mrsherbert&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsherbert&show_icons=true&locale=pt_BR&layout=compact&theme=dracula" alt="mrsherbert" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsherbert&show_icons=true&locale=pt_BR&theme=dracula" alt="mrsherbert" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsherbert&show_icons=true&locale=en&layout=compact" alt="mrsherbert" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsherbert&show_icons=true&locale=en" alt="mrsherbert" /></p>
